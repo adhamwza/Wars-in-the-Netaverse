@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=BattleType
+comment0.text=\r\n\ Enumeration\ class\ BattleType\ -\ write\ a\ description\ of\ the\ enum\ class\ here\r\n\ \r\n\ @author\ A.Marczyk\r\n\ @version\ 02/11/2019\r\n
+comment1.params=ty
+comment1.target=BattleType(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

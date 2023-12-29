@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Starship
+comment1.params=No\ Name\ price\ AmountOfStrikers\ AmountOfLaserCannons\ AmountOfPhotonTorpedoes\ Power\ Hidden
+comment1.target=Starship(java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ int,\ int,\ boolean)
+numComments=2

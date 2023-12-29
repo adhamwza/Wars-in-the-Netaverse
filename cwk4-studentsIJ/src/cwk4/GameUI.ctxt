@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=GameUI
+comment0.text=\r\n\ Provide\ a\ command\ line\ user\ interface\r\n\ \r\n\ @author\ A.A.Marczyk\r\n\ @version\ 06/10/23\r\n
+comment1.params=
+comment1.target=void\ playGame()
+comment2.params=
+comment2.target=int\ getMenuItem()
+comment3.params=code
+comment3.target=java.lang.String\ activation(int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

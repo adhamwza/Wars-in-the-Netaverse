@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Admiral
+comment1.params=admiralName
+comment1.target=Admiral(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=int\ getBitcoins()
+comment4.params=
+comment4.target=java.lang.String\ getForcesinInventory()
+comment5.params=f
+comment5.target=java.lang.String\ addtoinventory(Force)
+comment6.params=f
+comment6.target=java.lang.String\ RecalltoDock(Force)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8
